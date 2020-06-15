@@ -138,12 +138,15 @@ h1, h2, h3, h4, h5, h6 {
 .header p {
     font-size: 15px;
     text-align: center;
+    width: 50%;
+    margin: auto;
 }
 
 .header .contenedor-icono {
     position: absolute;
+    width: 100%;
     bottom: 3%;
-    left: 50%;
+    margin: auto;
     animation: bajar-subir 1s ease infinite;
 }
 
