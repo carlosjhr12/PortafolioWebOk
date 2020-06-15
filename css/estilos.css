@@ -441,7 +441,6 @@ textarea {
     
     .header .titulo {
         font-size: 50px;
-        margin: 40px;
     }
     
     .header p {
@@ -546,6 +545,11 @@ textarea {
         font-size: 15px;
     }
 
+    .nav {
+        background-color: rgba( 0, 0, 0, .8);
+
+    }
+
     .header .titulo {
         font-size: 50px;
         line-height: 180%;
@@ -553,8 +557,7 @@ textarea {
 
     .header p {
         font-size: 14px;
-        width: 50%;
-        margin: auto;
+        margin-top: 50px;
     }
 
     .header .contenedor-icono {
@@ -644,27 +647,19 @@ textarea {
         margin: 0px -7px;
     }
         
-    .nav {
-        background: black;
-    }
-        
     .header .titulo {
         font-size: 40px;
         line-height: 200%;
     }
         
-    .header .contenedor-icono {
-        margin-left: -35px;           
-    }
+    
         
     #fp-nav ul li a span {
         display: none;
     }        
         
         
-    .header .texto p {
-        font-size: 0px;
-    }
+    
         
     .sobremi h2 {
         font-size: 25px;
